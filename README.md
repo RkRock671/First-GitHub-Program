@@ -1,4 +1,5 @@
-# First-GitHub-Program
-<u>This is My First GitHub Repository</u>
-<br>
-Author - Rk
+# First GitHub Program
+
+This is my first GitHub repository.
+
+**Author:** Rk
